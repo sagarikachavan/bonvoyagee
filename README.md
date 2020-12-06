@@ -14,10 +14,14 @@ Our future improvements include collecting details about all packages through th
 MERN Stack:
 
 
-We will be using the MERN stack which consists of the following functionalities: 
+We will be using the MERN stack which consists of the following functionalities:
+
 MongoDB: A document-based open source database.
+
 Express: A web application framework for Node.js.
+
 React: A JavaScript front-end library for building user interfaces.
+
 Node.js: JavaScript run-time environment that executes JavaScript code outside of a browser (such as a server).
 
 
