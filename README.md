@@ -38,5 +38,4 @@ Frontend: using ReactJS to create the Frontend.
 
 
 
-[![Click here to check how our website looks](https://github.com/sagarikachavan/bonvoyagee/blob/master/aight%20(1)%20(1)%20(1).mp4)](https://github.com/sagarikachavan/bonvoyagee/blob/master/aight%20(1)%20(1)%20(1).mp4)
 
