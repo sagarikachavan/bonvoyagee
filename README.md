@@ -25,6 +25,8 @@ React: A JavaScript front-end library for building user interfaces.
 Node.js: JavaScript run-time environment that executes JavaScript code outside of a browser (such as a server).
 
 
+WHAT WE USED :
+
 
 The Backend: creating a package.json file, and installing dependencies like an Express backend server and others. We have used User Authentication and Authorization for login. Bcrypt is used for password hashing. JSON Web Token is an Internet standard for creating data with optional signature and/or optional encryption whose payload holds JSON that asserts some number of claims.
 
@@ -33,6 +35,8 @@ Data Base Schema: User login and registration will be created using Mongoose.
 Server API: adding endpoint routes so the server can perform CRUD (creating, reading, updating and deleting) operations and then testing it using a tool called Postman. Postman makes API development easy. 
 
 Frontend: using ReactJS to create the Frontend.
+
+
 
 
 
