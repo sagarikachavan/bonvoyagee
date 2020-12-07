@@ -38,5 +38,5 @@ Frontend: using ReactJS to create the Frontend.
 
 
 
-[![SC2 Video](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=--b-9HrKK6w)
+[![Click here to check how our website looks](https://github.com/sagarikachavan/bonvoyagee/blob/master/aight%20(1)%20(1)%20(1).mp4)](https://github.com/sagarikachavan/bonvoyagee/blob/master/aight%20(1)%20(1)%20(1).mp4)
 
