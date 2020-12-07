@@ -37,6 +37,5 @@ Server API: adding endpoint routes so the server can perform CRUD (creating, rea
 Frontend: using ReactJS to create the Frontend.
 
 
-C:\Users\Sagarika\Videos\Captures\aight
-
+[![SC2 Video](doc/SC2_youtube.PNG)](https://www.youtube.com/watch?v=--b-9HrKK6w "SC2 Mini game - Click to Watch!")
 
